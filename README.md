@@ -1,0 +1,1 @@
+https://twitter.com/rleija_/status/1265966229422051328?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1265966229422051328%7Ctwgr%5Ed909056b9cb64df04192ab84ff7742c28d751718%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Flinguinecode.com%2Fpost%2Fprevent-re-renders-react-functional-components-react-memo
